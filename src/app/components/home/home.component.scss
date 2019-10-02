@@ -1,0 +1,56 @@
+.col-md-4 p a {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.navbar{
+
+  position: relative;
+  }
+  
+@media only screen and (max-width: 991.99px) {
+  .col-md-4 {
+    text-align: justify;
+    margin-bottom: 40px;
+  }
+}
+
+.active-list-container {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+h2 {
+  color:whitesmoke;
+  font-size: 18px;
+  margin-top: -3px;
+  position: relative;
+}
+
+
+
+
+
+.panel-heading {
+  height: 40px;
+  padding: 8px 15px;
+  margin: 0;
+  margin-top: -21px;
+  position: relative;
+  margin-bottom: 4px;
+  border: none;
+  background-color: lighten(#2c3e50, 20%);
+  
+}
+.md-avatar-rounded-circle {
+/*vertical-align: middle;*/
+margin-top: -7px;
+width: 40px;
+height: 40px; 
+border-radius: 20%;
+}
+
+.panel-primary chat-container-sm-8 {
+
+  height: 60px;
+}
